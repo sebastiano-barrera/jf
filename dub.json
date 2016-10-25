@@ -1,0 +1,9 @@
+{
+	"name": "jf",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, Sebastiano",
+	"authors": ["Sebastiano"],
+	"dependencies": {
+		"pegged": "~>0.1.0"
+	}
+}
